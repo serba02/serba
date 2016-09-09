@@ -1,6 +1,6 @@
 class Greeter
   def initialize(who)
-    @who = planet
+    @who = zoo
   end
   def greet
     "Hello, #{@who}"
