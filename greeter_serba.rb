@@ -1,6 +1,6 @@
 class Greeter
   def initialize(who)
-    @who = bear
+    @who = deer
   end
   def greet
     "Hello, #{@who}"
